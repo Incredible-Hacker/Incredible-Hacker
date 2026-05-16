@@ -69,24 +69,24 @@ I'm a **Cybersecurity Researcher** and **AI/LLM Engineer** building tools at the
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://roottron.com">🚀 RootTron — Security AI Workbench</a></h4>
-      <p><i>Offensive Security SaaS powered by LLMs. Features automated payload generation and intelligent attack mapping.</i></p>
-      <code>Next.js</code> <code>FastAPI</code> <code>LLMs</code> <code>LangChain</code> <code>Tavily</code>
+      <h4><a href="https://github.com/Incredible-Hacker/ip-hunt">🛰️ ip-hunt — IP Intelligence</a></h4>
+      <p><i>Advanced OSINT tool for investigating suspicious IPs with composite risk scoring and multi-API enrichment.</i></p>
+      <code>Python</code> <code>Click</code> <code>Rich</code> <code>OSINT</code> <code>Security</code>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/IncredibleHacker/insta-hack">📸 insta-hack — Automation</a></h4>
-      <p><i>1,000+ Stars. Comprehensive Instagram security research and automated info gathering.</i></p>
-      <code>Python</code> <code>Social Engineering</code> <code>Bash</code> <code>Docker</code>
+      <h4><a href="https://github.com/Incredible-Hacker/telegram-osint">📡 telegram-osint — OSINT</a></h4>
+      <p><i>Professional TUI for real-time Telegram activity monitoring and session analytics.</i></p>
+      <code>Python</code> <code>Telethon</code> <code>SQLite</code> <code>OSINT</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/IncredibleHacker/telegram-osint">📡 telegram-osint — OSINT</a></h4>
-      <p><i>Real-time Telegram monitor with session tracking and persistent historical logging.</i></p>
-      <code>Python</code> <code>Telethon</code> <code>SQLite</code> <code>OSINT</code>
+      <h4><a href="https://github.com/Incredible-Hacker/exifblade">🛡️ exifblade — Forensics</a></h4>
+      <p><i>Malicious metadata generator and EXIF forensics tool for extracting, injecting, and wiping metadata.</i></p>
+      <code>Python</code> <code>EXIF</code> <code>Forensics</code> <code>Red-Team</code>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/IncredibleHacker/nmappy">🔍 nmappy — AI Nmap Helper</a></h4>
+      <h4><a href="https://github.com/Incredible-Hacker/nmappy">🔍 nmappy — AI Nmap Helper</a></h4>
       <p><i>AI-powered scanner that translates complex flags into actionable security insights.</i></p>
       <code>Python</code> <code>Nmap</code> <code>Gemini Pro</code> <code>Vertex AI</code>
     </td>
