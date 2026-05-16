@@ -5,13 +5,14 @@
 ---
 
 ### 🛡️ About Me
-I'm a **Cybersecurity Researcher** and **AI/LLM Engineer** building tools at the intersection of offensive security and artificial intelligence. Currently developing **RootTron** — an AI-powered security workbench used by pen testers, red teamers, and SOC analysts.
+👋 **Hi, I'm Faizan from Delhi, India!**  
+I'm a **Cybersecurity Expert** and **Python Programmer** who loves building tools at the intersection of offensive security and artificial intelligence. This is my **2nd Account** where I showcase my latest security research and AI-powered workflows.
 
-- 🔨 I'm currently building **RootTron** — Offensive Security AI SaaS for professionals.
-- 🤖 I'm currently learning **LLM Routing, RAG Pipelines & QLoRA Fine-tuning** on security datasets.
-- 👯 I'm looking to collaborate on **AI-powered Security Tools & Open Source Projects**.
-- 💬 Ask me about **Offensive Security, LLMs, Python, or OSINT**.
-- 🎯 Long-term goal: **Cyber Forensics + AI/LLM Engineering**
+- 🔨 I'm currently building **[RootTron](https://roottron.com)** — An AI-powered security workbench.
+- 🤖 I'm currently learning **Advanced LLM Fine-tuning & AI Forensics**.
+- 👯 I love teaching tech and ethical hacking to beginners.
+- 💬 Ask me about **Cybersecurity, Python, or OSINT**.
+- 🎯 Long-term goal: **To automate the security landscape using AI.**
 
 ---
 
@@ -22,28 +23,25 @@ I'm a **Cybersecurity Researcher** and **AI/LLM Engineer** building tools at the
 
 ### 🚀 Technical Arsenal
 
-**Core Expertise (Offensive AI)**
+**Languages & Core Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,git,github,vscode,python,js,nodejs,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,bash,js,nodejs,linux,kali,docker,git,github,vscode&theme=dark" />
 </p>
 
+**Security & Forensics**
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-4A90D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tails_OS-56347C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nmap-4A90D9?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
-**Active Learning (AI Engineering)**
+**AI & Machine Learning**
 <p align="center">
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Qwen3-E8441A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenRouter-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/Unsloth-FFD700?style=flat-square" />
+  <img src="https://img.shields.io/badge/Qwen-E8441A?style=flat-square" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tavily_RAG-00BFFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gemini_Pro-4285F4?style=flat-square&logo=google-gemini&logoColor=white" />
 </p>
 
 ---
