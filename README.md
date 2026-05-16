@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E8441A&center=true&vCenter=true&width=730&lines=Offensive+Security+%2B+AI+Engineer;Building+RootTron+%E2%80%94+1%2C700%2B+Users;Powering+Security+Workflows+with+LLMs;Automating+the+Adversary+to+Harden+Defense" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E8441A&center=true&vCenter=true&width=730&lines=Offensive+Security+%2B+AI+Engineer;Building+RootTron+%E2%80%94+Professional+SaaS;Powering+Security+Workflows+with+LLMs;Automating+the+Adversary+to+Harden+Defense" alt="Typing SVG" />
 </p>
 
 ---
@@ -50,16 +50,16 @@ I'm a **Cybersecurity Researcher** and **AI/LLM Engineer** building tools at the
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IncredibleHacker&show_icons=true&theme=tokyonight&hide_border=true&title_color=e8441a&icon_color=e8441a&text_color=ffffff" alt="IncredibleHacker GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncredibleHacker&layout=compact&theme=tokyonight&hide_border=true&title_color=e8441a&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Incredible-Hacker&show_icons=true&theme=tokyonight&hide_border=true&title_color=e8441a&icon_color=e8441a&text_color=ffffff" alt="Incredible-Hacker GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Incredible-Hacker&layout=compact&theme=tokyonight&hide_border=true&title_color=e8441a&text_color=ffffff" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IncredibleHacker&theme=tokyonight&hide_border=true&ring=e8441a&fire=e8441a&currStreakLabel=e8441a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=Incredible-Hacker&theme=tokyonight&hide_border=true&ring=e8441a&fire=e8441a&currStreakLabel=e8441a&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IncredibleHacker&theme=tokyo-night&hide_border=true&color=e8441a&line=e8441a&point=ffffff" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Incredible-Hacker&theme=tokyo-night&hide_border=true&color=e8441a&line=e8441a&point=ffffff" alt="Activity Graph" />
 </p>
 
 ---
@@ -97,26 +97,29 @@ I'm a **Cybersecurity Researcher** and **AI/LLM Engineer** building tools at the
 
 ### 🤝 Let's Connect
 <p align="left">
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram%20(Hacking%20Page)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://roottron.com"><img src="https://img.shields.io/badge/RootTron-E8441A?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://bit.ly/IH-Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/incrediblehacker"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://bit.ly/IH-Telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://bit.ly/IH-whatsapp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.incrediblehackers.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IncredibleHacker&label=Profile%20Views&color=e8441a&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Incredible-Hacker&label=Profile%20Views&color=e8441a&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🎮 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IncredibleHacker/IncredibleHacker/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Incredible-Hacker/Incredible-Hacker/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 
 ---
 
 <p align="center">
-  <a href="https://github.com/IncredibleHacker/IncredibleHacker"><img src="https://raw.githubusercontent.com/IncredibleHacker/IncredibleHacker/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" /></a>
+  <a href="https://github.com/Incredible-Hacker/Incredible-Hacker"><img src="https://raw.githubusercontent.com/Incredible-Hacker/Incredible-Hacker/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" /></a>
 </p>
 
 <p align="center">
