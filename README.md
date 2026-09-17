@@ -119,7 +119,3 @@ I'm a **Cybersecurity Expert** and **Python Programmer** who loves building tool
 <p align="center">
   <a href="https://github.com/Incredible-Hacker/Incredible-Hacker"><img src="https://raw.githubusercontent.com/Incredible-Hacker/Incredible-Hacker/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" /></a>
 </p>
-
-<p align="center">
-  <i>"Hacking is not a crime, it's a skill. AI is not a tool, it's a weapon."</i> — <b>0xfaizan</b>
-</p>
